@@ -42,13 +42,12 @@ const styles = StyleSheet.create({
         color:'white'
     },
     amountContainer:{
-        paddingHorizontal:2,
+        paddingHorizontal:20,
         paddingVertical:4,
         backgroundColor:"white",
         justifyContent:"center",
         alignItems:"center",
         borderRadius:4,
-        minWidth:80,
     },
     amount:{
         color:GlobalStyles.colors.primary500,
